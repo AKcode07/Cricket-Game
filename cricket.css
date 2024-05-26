@@ -1,0 +1,41 @@
+body {
+  font-family: 'Crimson Text', serif;
+  font-family: 'Eczar', serif;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  background-image: url(crick.jpg);
+  background-size: cover;   
+}
+
+h1{
+  font-size: 4rem;
+  color: rgb(75, 36, 0);
+}
+
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: inherit;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.choice-image {
+  height: 75px;
+}
+
+.Reset{
+  height: 40px;
+  width: 100px;
+  border: black dotted 1px;
+  margin: 10px;
+  background-color:   rgb(201, 0, 0);
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 13px;
+  font-family: 'Crimson Text', serif;
+  font-family: 'Eczar', serif;
+  font-family: 'Work Sans', sans-serif;
+}
